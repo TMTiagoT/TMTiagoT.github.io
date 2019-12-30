@@ -10,7 +10,7 @@ var language_texts = {
 		events_courses_navbar: "Events &#38; Courses",
 		interests_navbar: "Interests",
 		
-		my_data: "Cell: [+55] (11) 995988-7910 · Mail: <a href='mailto:tiago.silva.miranda@usp.br'>tiago.silva.miranda@usp.br</a>",
+		my_data: "Cell: [+55] (11) 95988-7910 · Mail: <a href='mailto:tiago.silva.miranda@usp.br'>tiago.silva.miranda@usp.br</a>",
 		my_about: "I am a student of computer science with major skills in back-end development and data engineering.<br/>I have worked, during my graduation, in projects of general software development, database development and exploration, game development, and so forth.",
 		
 		education_section: "Education",
@@ -81,7 +81,7 @@ var language_texts = {
 		course_musical_programming_chuck: "Minicourse of Musical Programming with Chuck (Semcomp 2016)",
 		course_game_developing_unity: "Minicourses of Game Developing with Unity (Semcomp - ICMC-USP)",
 		course_introduction_machine_learning: "Minicourse of Introduction to Machine Learning (Semcomp 2018)",
-		course_deep_learning: "Minicourse of Deep Learning (Semcomp)",
+		course_deep_learning: "Minicourse of Coloring Photos with Deep Learning (Semcomp 2018)",
 		course_data_acquisition_analysis: "Minicourse of Data Acquisition and Exploratory Analysis (Semcomp 2019)",
 		course_data_visualization_tableau: "Minicourse of Data Visualization on Tableau (Semcomp 2019)",
 		
@@ -102,7 +102,7 @@ var language_texts = {
 		events_courses_navbar: "Eventos &#38; Cursos",
 		interests_navbar: "Interesses",
 		
-		my_data: "Cel: [+55] (11) 995988-7910 · Email: <a href='mailto:tiago.silva.miranda@usp.br'>tiago.silva.miranda@usp.br</a>",
+		my_data: "Cel: [+55] (11) 95988-7910 · Email: <a href='mailto:tiago.silva.miranda@usp.br'>tiago.silva.miranda@usp.br</a>",
 		my_about: "Sou um estudante de ciência da computação com habilidades principalmente nas áreas de desenvolvimento back-end e engenharia de dados.<br/>Trabalhei, durante a minha graduação, em projetos de desenvolvimento de software, desenvolvimento e exploração de banco de dados, desenvolvimento de jogos, entre outros.",
 		
 		education_section: "Educação",
@@ -172,7 +172,7 @@ var language_texts = {
 		course_musical_programming_chuck: "Minicurso de Programação Musical com Chuck (Semcomp 2016)",
 		course_game_developing_unity: "Minicursos de Desenvolvimento de Jogos com Unity (Semcomp - ICMC-USP)",
 		course_introduction_machine_learning: "Minicurso de Introdução à Machine Learning (Semcomp 2018)",
-		course_deep_learning: "Minicurso de Deep Learning (Semcomp)",
+		course_deep_learning: "Minicurso de Colorir Fotos com Deep Learning (Semcomp 2018)",
 		course_data_acquisition_analysis: "Minicurso de Aquisição e Análise Exploratória de Dados (Semcomp 2019)",
 		course_data_visualization_tableau: "Minicurso de Visualização de Dados no Tableau (Semcomp 2019)",
 		
