@@ -19,7 +19,7 @@ var language_texts = {
 		usp_course: "Bachelor of Computer Science",
 		usp_description: "Bachelor’s degree in Computer Science, along with emphasis in Data Engineering.",
 		usp_note: "<b>Note:</b> To achieve an emphasis is necessary to do extra classes, besides the computer science bachelor default classes.",
-		usp_gpa: "<b>GPA:</b> 8.8/10",
+		usp_gpa: "<b>GPA:</b> 8.9/10",
 		usp_location: "Sao Carlos, Brazil",
 		usp_date: "Jan. 2016 - Dec. 2020 (expected)",
 		
@@ -110,7 +110,7 @@ var language_texts = {
 		usp_course: "Bacharelado em Ciência da Computação",
 		usp_description: "Bacharelado em ciência da computação, juntamente com ênfase em engenharia de dados",
 		usp_note: "<b>Nota:</b> Para adquirir uma ênfase é necessário cursar matérias extras, além das matérias padrão do curso.",
-		usp_gpa: "<b>Média de Notas:</b> 8.8/10",
+		usp_gpa: "<b>Média de Notas:</b> 8.9/10",
 		usp_location: "São Carlos, Brasil",
 		usp_date: "Jan. 2016 - Dez. 2020 (esperado)",
 		
